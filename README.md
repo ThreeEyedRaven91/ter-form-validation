@@ -51,3 +51,11 @@ Validation set for ter-form
 | label1    | No        | Label to display in error, default is key |
 | label2    | No        | Label to display in error, default is key |
 | translate | No        | Ter-localization variable                 |
+
+## Email
+
+| Input     | Mandatory | Description                               |
+|-----------|-----------|-------------------------------------------|
+| key       | Yes       | Key to get data from form                 |
+| label     | No        | Label to display in error, default is key |
+| translate | No        | Ter-localization variable                 |
